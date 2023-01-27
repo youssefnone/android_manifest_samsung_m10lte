@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!--
+    * target: m10lte
+    * rom: LineageOS 17.1
+    -->
+
+    <!-- Remote -->
+    <remote fetch="https://github.com/samsungexynos7870" name="7870" />
+    <remote fetch="https://github.com/youssefnone" name="m10" />
+
+    <!-- Device -->
+    <project name="android_device_samsung_m10lte" path="device/samsung/m10lte" remote="m10lte" revision="lineage-17.1" />
+    <project name="android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="m10lte" revision="lineage-17.1" />
+
+    <!-- Kernel -->
+    <project name="android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="m10lte" revision="aosp" />
+
+    <!-- Vendor -->
+    <project name="android_vendor_samsung_m10lte" path="vendor/samsung/m10lte" remote="m10lte" revision="common" />
+    <project name="android_vendor_samsung_universal7870-common" path="vendor/samsung/universal7870-common" remote="m10lte" revision="common" />
+
+    <!-- Hardware -->
+    <project name="android_hardware_samsung" path="hardware/samsung" remote="7870" revision="lineage-17.1" />
+
+</manifest>

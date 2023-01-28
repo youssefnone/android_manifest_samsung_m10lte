@@ -7,7 +7,7 @@
 
     <!-- Remote -->
     <remote fetch="https://github.com/samsungexynos7870" name="7870" />
-    <remote fetch="https://github.com/youssefnone" name="m10" />
+    <remote fetch="https://github.com/youssefnone" name="m10lte" />
 
     <!-- Device -->
     <project name="android_device_samsung_m10lte" path="device/samsung/m10lte" remote="m10lte" revision="lineage-17.1" />

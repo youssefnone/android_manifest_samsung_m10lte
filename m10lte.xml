@@ -9,8 +9,8 @@
     <remote fetch="https://github.com/samsungexynos7870" name="7870" />
 
     <!-- Device -->
-    <project name="youssefnone/android_device_samsung_m10lte" path="device/samsung/m10lte" remote="github" revision="rr-8" />
-    <project name="youssefnone/android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="github" revision="RR-8" />
+    <project name="youssefnone/android_device_samsung_m10lte" path="device/samsung/m10lte" remote="github" revision="rr8" />
+    <project name="youssefnone/android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="github" revision="rr8" />
 
     <!-- Kernel -->
     <project name="youssefnone/android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="github" revision="aosp" />

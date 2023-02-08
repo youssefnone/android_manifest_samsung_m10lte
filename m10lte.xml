@@ -6,8 +6,8 @@
     -->
 
     <!-- Remote -->
-    <remote fetch="https://m10.com/samsungexynos7870" name="7870" />
-    <remote fetch="https://m10.com/youssefnone" name="m10" />
+    <remote fetch="https://github.com/samsungexynos7870" name="7870" />
+    <remote fetch="https://github.com/youssefnone" name="m10" />
 
     <!-- Device -->
     <project name="android_device_samsung_m10lte" path="device/samsung/m10lte" remote="m10" revision="cr-9.0" />

@@ -19,7 +19,7 @@
 
     <!-- Vendor -->
     <project name="android_vendor_samsung_m10lte" path="vendor/samsung/m10lte" remote="m10" revision="common" />
-    <project name="android_vendor_samsung_universal7870-common" path="vendor/samsung/universal7870-common" remote="m10" revision="lineage-18.1" />
+    <project name="android_vendor_samsung_universal7870-common" path="vendor/samsung/universal7870-common" remote="7870" revision="11-oss_bsp-vndk" />
 
     <!-- Hardware -->
     <project name="android_hardware_samsung" path="hardware/samsung" remote="7870" revision="lineage-18.1" />

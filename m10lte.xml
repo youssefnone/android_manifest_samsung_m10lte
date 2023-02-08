@@ -22,8 +22,8 @@
 
     <!-- Hardware -->
     <project name="android_hardware_samsung" path="hardware/samsung" remote="7870" revision="lineage-18.1" />
-    <project name="TALUAtm10/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="m10" revision="lineage-18.1" />
-    <project name="TALUAtm10/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="m10" revision="lineage-18.1" />
-    <project name="TALUAtm10/android_hardware_samsung_slsi_exynos7870" path="hardware/samsung_slsi/exynos7870" remote="m10" revision="lineage-18.1" />
+    <project name="TALUAtGitHub/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="m10" revision="lineage-18.1" />
+    <project name="TALUAtGitHub/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="m10" revision="lineage-18.1" />
+    <project name="TALUAtGitHub/android_hardware_samsung_slsi_exynos7870" path="hardware/samsung_slsi/exynos7870" remote="m10" revision="lineage-18.1" />
 
 </manifest>

@@ -8,7 +8,6 @@
     <!-- Remote -->
     <remote fetch="https://github.com/samsungexynos7870" name="7870" />
     <remote fetch="https://github.com/youssefnone" name="m10" />
-    <remote fetch="https://github.com/TALUAtGitHub" name="hw" />
 
     <!-- Device -->
     <project name="android_device_samsung_m10lte" path="device/samsung/m10lte" remote="m10" revision="cr-9.0" />
@@ -23,8 +22,8 @@
 
     <!-- Hardware -->
     <project name="android_hardware_samsung" path="hardware/samsung" remote="7870" revision="lineage-18.1" />
-    <project name="android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="hw" revision="lineage-18.1" />
-    <project name="android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="hw" revision="lineage-18.1" /> 
-    <project name="android_hardware_samsung_slsi_exynos7870" path="hardware/samsung_slsi/exynos7870" remote="hw" revision="lineage-18.1" />
+    <project name="android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="7870" revision="lineage-18.1-universal7870-vndk-vendor" />
+    <project name="android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="7870" revision="lineage-18.1-universal7870-vndk-vendor" /> 
+    <project name="android_hardware_samsung_slsi_exynos7870" path="hardware/samsung_slsi/exynos7870" remote="7870" revision="lineage-18.1-universal7870-vndk-vendor" />
 
 </manifest>

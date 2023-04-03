@@ -10,7 +10,7 @@
     <remote fetch="https://github.com/youssefnone" name="m10" />
 	
     <!-- Device -->
-    <project name="android_device_samsung_m10lte" path="device/samsung/m10lte" remote="m10" revision="crdroid" />
+    <project name="android_device_samsung_m10lte" path="device/samsung/m10lte" remote="m10" revision="crdroid-9" />
     <project name="android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="m10" revision="crdroid" />
 
     <!-- Kernel -->

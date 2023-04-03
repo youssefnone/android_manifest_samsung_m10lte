@@ -11,7 +11,7 @@
 	
     <!-- Device -->
     <project name="android_device_samsung_m10lte" path="device/samsung/m10lte" remote="m10" revision="crdroid-9" />
-    <project name="android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="m10" revision="crdroid" />
+    <project name="android_device_samsung_universal7870-common" path="device/samsung/universal7870-common" remote="m10" revision="crdroid-9" />
 
     <!-- Kernel -->
     <project name="android_kernel_samsung_exynos7870" path="kernel/samsung/exynos7870" remote="m10" revision="aosp" />
